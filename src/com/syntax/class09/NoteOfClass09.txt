@@ -1,0 +1,3 @@
+Selenium Class 09:
+
+Table divided into serval page called pagination
